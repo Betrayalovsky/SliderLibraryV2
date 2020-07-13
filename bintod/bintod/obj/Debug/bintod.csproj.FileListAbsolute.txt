@@ -1,0 +1,23 @@
+C:\Users\trile\source\repos\bintod\bintod\bin\Debug\bintod.dll
+C:\Users\trile\source\repos\bintod\bintod\bin\Debug\bintod.pdb
+C:\Users\trile\source\repos\bintod\bintod\obj\Debug\bintod.csprojAssemblyReference.cache
+C:\Users\trile\source\repos\bintod\bintod\obj\Debug\bintod.csproj.GenerateResource.cache
+C:\Users\trile\source\repos\bintod\bintod\obj\Debug\bintod.csproj.CoreCompileInputs.cache
+C:\Users\trile\source\repos\bintod\bintod\obj\Debug\bintod.dll
+C:\Users\trile\source\repos\bintod\bintod\obj\Debug\bintod.pdb
+C:\Users\trile\source\repos\bintod\bintod\obj\Debug\bintod.bintoD.resources
+C:\Users\trile\Desktop\komponenty\bintod\bintod\bin\Debug\bintod.dll
+C:\Users\trile\Desktop\komponenty\bintod\bintod\bin\Debug\bintod.pdb
+C:\Users\trile\Desktop\komponenty\bintod\bintod\obj\Debug\bintod.csprojAssemblyReference.cache
+C:\Users\trile\Desktop\komponenty\bintod\bintod\obj\Debug\bintod.bintoD.resources
+C:\Users\trile\Desktop\komponenty\bintod\bintod\obj\Debug\bintod.csproj.GenerateResource.cache
+C:\Users\trile\Desktop\komponenty\bintod\bintod\obj\Debug\bintod.csproj.CoreCompileInputs.cache
+C:\Users\trile\Desktop\komponenty\bintod\bintod\obj\Debug\bintod.dll
+C:\Users\trile\Desktop\komponenty\bintod\bintod\obj\Debug\bintod.pdb
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\bin\Debug\bintod.dll
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\bin\Debug\bintod.pdb
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\obj\Debug\bintod.bintoD.resources
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\obj\Debug\bintod.csproj.GenerateResource.cache
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\obj\Debug\bintod.dll
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\obj\Debug\bintod.pdb
+C:\Users\betra\Desktop\studia\Komponenty u 13323 Galka Patryk 5sem stac zim 2018\komponent visual studio\bintod\bintod\obj\Debug\bintod.Properties.Resources.resources
